@@ -1,0 +1,6 @@
+{
+  "name": "AuraMeet - AI Meeting Intelligence",
+  "description": "AI-powered meetings that listen, understand, and remember.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
